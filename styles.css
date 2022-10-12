@@ -1,5 +1,9 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
-    color:darkolivegreen
+    color: blue;
 }
 
 h2 {
