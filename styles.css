@@ -1,9 +1,16 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h1 {
     color: blue;
 }
+
 h2 {
-    color: red;
+    color: red
+}
+
+p {
+    background-color:aqua
+    color:blue
 }
